@@ -1,4 +1,4 @@
-# Javascript practice: Making an Counter ✔
+# Javascript practice: Make a Counter ✔
 
 This project is about a very simple counter.
 
